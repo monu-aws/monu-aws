@@ -10,9 +10,6 @@
  
 </p>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monu-aws)](https://github.com/monu-aws/github-readme-stats)
-
 <p align="center" >
    <img align="center" src="https://github-contributor-stats.vercel.app/api?username=monu-aws&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="monu-aws" height=220/>
   </p>
