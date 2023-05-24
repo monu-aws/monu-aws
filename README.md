@@ -11,11 +11,7 @@
 </p>
 
 <p align="center" >
-   <img align="center" src="https://github-contributor-stats.vercel.app/api?username=monu-aws&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="monu-aws" height=220/>
-  </p>
-  <p align="center" >
    <img align="center" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=light" alt="monu-aws"  height=250/>
-  
 
 </p>
 
