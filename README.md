@@ -6,8 +6,8 @@
 
 <p align="center" >
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monusingh-1&" alt="monusingh-1" /> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=monusingh-1&show_icons=true&locale=en" alt="monusingh-1" />
- 
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=monusingh-1&show_icons=true&locale=en" alt="monusingh-1" />
+  -->
 </p>
 
 <p align="center" >
